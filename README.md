@@ -95,7 +95,7 @@ $ mix test --only integration_test_driver:chromedriver
 To install PhantomJS on OS X:
 
 ```
-$ brew cask install phantomjs
+$ brew install --cask phantomjs
 ```
 
 Before running test suite, start up phantomjs
